@@ -1,4 +1,4 @@
-# I2C-Sensor-Interface 
+# I2C Sensor Interface 
 C++ I2C interface to unify operation with I2C devices. 
  
 ## Example 
